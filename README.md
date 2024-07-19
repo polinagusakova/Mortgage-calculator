@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/polinagusakova/Mortgage-calculator)
-- Live Site URL: [GitHub pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub pages](https://polinagusakova.github.io/Mortgage-calculator/)
 
 ## My process
 
